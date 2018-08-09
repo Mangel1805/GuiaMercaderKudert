@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangel1805/GuiaMercaderKudert.git"
+  },
   "author": "Miguel Angel Siguenza Salinas",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangel1805/GuiaMercaderKudert/issues"
+  },
+  "homepage": "https://github.com/Mangel1805/GuiaMercaderKudert#readme"
 }
